@@ -1,6 +1,6 @@
 # Sass-Card
 Sass Card Bootstrap
-  _
+  
 #Los cambios en el desafio de la Card se realizaron en las siguientes lineas:
   _Variable.scss:
                   Linea 8         ---> @import (font google DancingScript)
